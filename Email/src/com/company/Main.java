@@ -7,7 +7,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-	// write your code here
+        // write your code here
 
         Scanner input = new Scanner(System.in);
 
@@ -15,7 +15,7 @@ public class Main {
 
         String[] information = new String[3];
 
-        System.out.println( "Email 을 입력해줘");
+        System.out.println("Email 을 입력해줘");
 
         Email = input.next();
 

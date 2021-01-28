@@ -9,10 +9,10 @@ public class main {
         hero[2] = new Magician("마법사");
 
 
-        for(int i = 0 ; i < 3; i++ ) {
+        for (int i = 0; i < 3; i++) {
             hero[i].attac();
 
-            if(hero[i] instanceof Warrior ) {
+            if (hero[i] instanceof Warrior) {
                 ((Warrior) hero[i]).groundCutting();
             }
 

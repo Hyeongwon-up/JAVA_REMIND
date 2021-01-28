@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class main {
 
     public static char function(String input) {
-        return input.charAt(input.length()-1);
+        return input.charAt(input.length() - 1);
     }
 
 

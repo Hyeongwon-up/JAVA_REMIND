@@ -24,6 +24,6 @@ public class node {
     }
 
     public node getCenter(node other) {
-        return new node((this.x+other.getX())/2,(this.y+other.getY())/2);
+        return new node((this.x + other.getX()) / 2, (this.y + other.getY()) / 2);
     }
 }

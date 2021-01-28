@@ -1,8 +1,8 @@
-public class Peach extends Fruit{
+public class Peach extends Fruit {
 
     public Peach() {
         price = 1000;
-        name ="복숭아";
+        name = "복숭아";
         fresh = 32;
-   }
+    }
 }

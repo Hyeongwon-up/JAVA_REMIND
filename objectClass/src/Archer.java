@@ -9,14 +9,12 @@ public class Archer {
     }
 
     public boolean equals(Object obj) {
-        Archer temp = (Archer)obj;
+        Archer temp = (Archer) obj;
 
-        if(name == temp.name && power == temp.power) {
+        if (name == temp.name && power == temp.power) {
             return true;
 
-        }
-
-        else {
+        } else {
             return false;
         }
     }

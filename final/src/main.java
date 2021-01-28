@@ -7,8 +7,6 @@ public class main extends parent {
     public static void main(String[] args) {
 
 
-
-
         main a = new main();
 
         a.show();

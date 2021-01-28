@@ -9,7 +9,6 @@ public class main {
         one2.show();
 
 
-
     }
 
 }

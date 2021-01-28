@@ -9,10 +9,10 @@ public class main {
 
         Scanner input = new Scanner(System.in);
 
-        for(int i = 0 ; i<n; i++) {
-            for(int j = 0 ; j<n ; j++) {
+        for (int i = 0; i < n; i++) {
+            for (int j = 0; j < n; j++) {
                 int temp = input.nextInt();
-                map[i][j] =  temp;
+                map[i][j] = temp;
             }
         }
 
